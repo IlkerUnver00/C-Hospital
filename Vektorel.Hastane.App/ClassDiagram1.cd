@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vektorel.Hastane.App.Doktor">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAICAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAACABAEA=</HashCode>
+      <FileName>Doktor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vektorel.Hastane.App.Hasta">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAGABAEA=</HashCode>
+      <FileName>Hasta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vektorel.Hastane.App.Ilac">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ilac.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vektorel.Hastane.App.Muayene">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAABAAAAAAAAAAABAAAAAQAAAAABAAAAIA=</HashCode>
+      <FileName>Muayene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vektorel.Hastane.App.Recete">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABCAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Recete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vektorel.Hastane.App.Tetkik">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Tetkik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Vektorel.Hastane.App.Brans">
+    <Position X="0.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgBAAAAAAAAQAAACCAAAAAAAAAAAAAAAACCAAAg=</HashCode>
+      <FileName>Doktor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vektorel.Hastane.App.Cinsiyet">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hasta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vektorel.Hastane.App.KanGrubu">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAQAAABoAAAACAQEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hasta.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vektorel.Hastane.App.MuayeneTuru">
+    <Position X="4.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAACAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Muayene.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vektorel.Hastane.App.TetkikTuru">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAABAAgAAAAQAAAAAAAEAA=</HashCode>
+      <FileName>Tetkik.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
